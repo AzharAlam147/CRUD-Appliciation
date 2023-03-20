@@ -14,7 +14,7 @@ This Visual Studio 2022 extension is the easiest way to add a consistently corre
 # Database
 Microsoft Sql Database
 
-#Features
+# Features
 1. Insert
 2. Update
 3. Delete
