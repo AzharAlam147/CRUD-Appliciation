@@ -23,7 +23,7 @@ Microsoft Sql Database
 3. Delete
 
 # GUI
-
+![1](https://user-images.githubusercontent.com/73800301/226446347-0a91b6cc-2921-408b-a3f6-63d32b411460.PNG)
 ![2](https://user-images.githubusercontent.com/73800301/226446357-960c017c-c665-4659-a8c5-47023417f17c.PNG)
 ![3](https://user-images.githubusercontent.com/73800301/226446363-cfc18910-681b-4c7a-b2a4-10c4e4490f0d.PNG)
 ![4](https://user-images.githubusercontent.com/73800301/226446366-1bf61515-8395-4ea8-9c51-13c37fb1c265.PNG)
